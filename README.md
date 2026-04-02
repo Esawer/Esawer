@@ -11,7 +11,7 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
   *University of National Education Commission, Krakow (UKEN)*
 - **B.Sc. Finance and Accounting** (1st Year)  
   *Krakow University of Economics (UEK / CUE)*
---
+  
 ### 🛠 Technical Skills
 
 * **Python:** Strengthening fundamentals with a focus on **Object-Oriented Programming (OOP)**.
@@ -25,7 +25,7 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 
 ---
 
-### 🚀 Featured Project (In Development)
+### 🚀 Featured Project 
 
 #### **Finance OCR & Invoice Management System**
 A web-based platform designed to fasten the workflow between clients and accountants.
