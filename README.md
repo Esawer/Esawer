@@ -6,7 +6,7 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 - **B.Eng. Applied Computer Science** (2nd Year)  
   *University of National Education Commission, Krakow (UKEN)*
 - **B.Sc. Finance and Accounting** (1st Year)  
-  *Krakow University of Economics (UEK)*
+  *Krakow University of Economics (CUE / UEK)*
 
 ---
 
