@@ -15,7 +15,6 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 ### 🛠 Technical Skills
 
 * **Python:** Fundamental knowledge, with some experience in **Object-Oriented Programming (OOP)**.
-* **Version Control:** Fundamental **Git** workflow (Cloning, Pushing).
 * **Operating Systems:** Primarily **Windows 11** with basic experience in **Linux** (Elementary OS).
  
 ### 🗣 Languages
