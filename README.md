@@ -13,37 +13,50 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
   *Krakow University of Economics (UEK / CUE)*
   
 ### 🛠 Technical Skills
-* **Programming:** Python (Fundamental knowledge, some OOP basics).
+* **Programming:** Python (Fundamental knowledge).
 * **Web Development:** Django, with basic familiarity of HTML, CSS, and TailwindCSS.
-* **Databases:** PostgreSQL (via Django ORM).
 
 ### 🌱 Currently Learning
-- **Data Analysis & Visualization:** Learning the fundamentals of **Pandas** and **Seaborn** to manipulate data and generate statistical visualizations for my academic research.
-- **Databases (SQLite):** Diving into raw **SQLite** queries to store testing data for AI model benchmarking.
+- **Agentic Workflows:** Using AI agents to build awesome projects in an extremely short time—mainly exploring Klio Code (VS Code extension) and Open Interpreter (CLI). At the moment, DeepSeek-V4-Flash is my absolute favorite low-cost model.
  
 ### 🗣 Languages
 - **Polish:** Native.
 - **English:** **High B2 / Near-C1** (Scored 179/190 according to Cambridge English Scale).
-- **Spanish:** **Passive B1/B2 Fluency**. Strong listening comprehension; I can follow complex content like *Radio Ambulante* or *Juan March* lectures, though I am still adapting to diverse regional accents.
+- **Spanish:** **Passive B1/B2 Fluency**. Strong listening comprehension; I can follow complex content like *Spicy4tuna* or some *Histocast* episodes, though I am still adapting to diverse regional accents.
+
+---
+
+### 💼 Experience
+
+#### **Web Developer** | *WTYMRAZEM Foundation*
+*07.2026 – Present*
+
+*   **Status:** Currently building and deploying the website (pre-launch phase).
+*   **Rapid Development via AI:** Designing and building a fully functional, responsive website for an NGO focused on mental health and well-being. Leveraging "vibe coding" and AI agents to rapidly deploy the core architecture, design, and features in a couple of days.
+*   **Tech Stack:** WordPress, Tailwind CSS, AI Agents.
+*   **Key Features & Responsibilities:**
+    *   Built a multi-page architecture with mobile responsiveness and a dark/light mode toggle.
+    *   Developed custom UI layouts utilizing TailwindCSS within a WordPress environment.
+    *   Implemented job application and contact forms routed via IPAM.
 
 ---
 
 ### 🔬 Academic Research & Publications
-*I am currently writing two scientific papers that will be published as chapters in an upcoming university volume.*
+*I have submitted two scientific papers that will be published as chapters in an upcoming university volume.*
 
-#### **1. AI and Computer Vision in CAPTCHA Verification (Working Title)** *(Forthcoming)*
-A comparative analysis testing the vulnerability of various CAPTCHA systems against modern AI models.
-- **Tech Stack:** Python, Pandas, Seaborn, SQLite.
-- **Research Scope:** Developed a custom text-based CAPTCHA implementation from scratch.
-- **Current Phase:** Creating an SQLite database to efficiently store test images and track AI results.
-- **Methodology:** Benchmarking my custom solution against open-source text CAPTCHA and reCAPTCHA v2.  
-The experiment involves running datasets of images through 6 different AI models.
+#### **1. AI and Computer Vision in CAPTCHA Verification Tests** *(Submitted)*
+A comparative analysis testing the vulnerability and performance of modern AI models against text-based CAPTCHA systems.
+*   **Research Scope:** The project involved developing a custom text-based CAPTCHA implementation written primarily in Python. 
+*   **Dataset:** The models were tested on 1000 images per category across three distinct types of CAPTCHAs: a custom implementation, an open-source implementation, and a Kaggle dataset.
+*   **Methodology:** The experiment benchmarked five AI models (gemini-2.5-flash, grok-4.3, claude-sonnet-4-6, gpt-5.1-2025-11-13, and Qwen3.5-397B-A17B) alongside a human control sample.
+*   **Evaluation:** The Levenshtein distance was utilized to calculate the difference between the fully correct answer and the response provided by the models or humans.
 
-#### **2. Defining the Limits of AI in Document Understanding (Working Title)** *(Forthcoming)*
-A co-authored paper exploring the boundaries and "hallucination points" of AI models.
-- **Tech Stack:** Python, Pandas, Seaborn, SQLite.
-- **Current Phase:** Currently in the conceptualization phase.
-- **Methodology:** Programmatically degrading document quality through iterations (e.g. applying Gaussian blur, visual noise and grain) to pinpoint the limits of contemporary AI models.
+#### **2. Analysis of Selected Multimodal AI Models Against Manipulation Under Progressive Input Data Degradation** *(Submitted)*
+A co-authored paper exploring the boundaries and vulnerabilities of Vision-Language Models (VLMs) and OCR systems when subjected to visual distortions.
+*   **Tech Stack:** The local testing environment was containerized using Docker and utilized physical GPU acceleration. 
+*   **Methodology:** The research evaluated four highly optimized open-source models (GLM-OCR, Ministral 3 8B, Qwen2.5-VL, TranslateGemma 12B) and one commercial model (Gemini-2.5-flash).
+*   **Research Scope:** The experiment analyzed a custom graphical dataset containing text, which was programmatically degraded using five types of distortions (including Gaussian blur, salt and pepper noise, and compression) across a progressive 20-level intensity scale.
+*   **Evaluation:** The accuracy of the models' predictions compared to the original expected strings was verified by calculating the Levenshtein distance.
 
 ---
 
