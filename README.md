@@ -17,7 +17,7 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 * **Web Development:** Django, with basic familiarity of HTML, CSS, and TailwindCSS.
 
 ### 🌱 Currently Learning
-- **Agentic Workflows:** Using AI agents to build awesome projects in an extremely short time—mainly exploring Klio Code (VS Code extension) and Open Interpreter (CLI). At the moment, DeepSeek-V4-Flash is my absolute favorite low-cost model.
+- **Agentic Workflows:** Using AI agents to build awesome projects in an extremely short time - mainly exploring Klio Code (VS Code extension) and Open Interpreter (CLI). At the moment, DeepSeek-V4-Flash is my absolute favorite low-cost model.
  
 ### 🗣 Languages
 - **Polish:** Native.
@@ -29,30 +29,26 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 ### 💼 Experience
 
 #### **Solo Founder & Developer** | *WycenToSam*
-  *07.2026 – Present*
+  *07.2026 - Present*
 
   *   **Status:** Live at [wycentosam.pl](https://wycentosam.pl) – commercial micro-SaaS in production
-  *   **Extensive AI-Driven Workflow:** Nearly the entire codebase – backend, frontend, and test suite – was generated via
-  intensive AI pair-programming (agentic workflow). Built end-to-end using AI agents, shipped from concept to live
-  deployment
   *   **Tech Stack:** Django, Python, Tailwind CSS, JavaScript, Deepgram API, OpenAI API
   *   **Key Features & Responsibilities:**
-      *   Built a speech-to-text pipeline using Deepgram API, processing natural-language descriptions of construction
-      work into structured JSON schemas via OpenAI
-      *   Implemented the full user journey: free estimate generation → account creation → subscription checkout, with a
-      clean, no-distraction UI focused on a single CTA
+      *   Architected the full system: mapped the user happy path and defined the data flow from voice input → structured
+          JSON → PDF output
+      *   Selected and directed the integration of Deepgram API for speech-to-text and OpenAI for natural-language processing
+          into structured JSON schemas
+      *   Used heavy AI-assisted development to accelerate coding
 
 #### **Web Developer** | *WTYMRAZEM Foundation*
-  *07.2026 – Present*
+  *07.2026 - Present*
 
   *   **Status:** Live at [wtymrazem.pl](https://wtymrazem.pl)
-  *   **Extensive AI-Driven Workflow:** Designed and built a fully functional, responsive website for an NGO focused on
-  mental health and well-being. The entire platform was delivered via an extensive AI-driven workflow, shipping the core
-  architecture, design, and features in a matter of days
   *   **Tech Stack:** WordPress, Tailwind CSS, AI Agents
   *   **Key Features & Responsibilities:**
-      *   Built a multi-page architecture with mobile responsiveness and a dark/light mode toggle
-      *   Developed custom UI layouts utilizing TailwindCSS within a WordPress environment
+      *   Built a fully functional, responsive website for an NGO focused on mental health and well-being, delivered end-to-end from stakeholder sketches - entire platform generated via AI-assisted workflow
+      *   Developed a multi-page architecture with mobile responsiveness and a dark/light mode toggle
+      *   Created custom UI layouts utilizing TailwindCSS within a WordPress environment
       *   Implemented job application and contact forms routed via IPAM
 
 ---
