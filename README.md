@@ -28,7 +28,7 @@ I am a dual-degree student focused on the intersection of **Applied Computer Sci
 
 ### 💼 Experience
 
-#### **Solo Founder & Developer** | *WycenToSam*
+#### **Creator & Developer** | *WycenToSam*
   *07.2026 - Present*
 
   *   **Status:** Live at [wycentosam.pl](https://wycentosam.pl) – commercial micro-SaaS in production
