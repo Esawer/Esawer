@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Igor
 
-I am a dual-degree student combining **Applied Computer Science** with **Finance & Accounting**. I turn ideas into working solutions end-to-end - by prompting AI agents, then verifying and shipping, and documenting what I build. Most of all, I genuinely enjoy building cool things with AI - it gives me satisfaction.  
+I am a dual-degree student combining **Applied Computer Science** with **Finance & Accounting**.  
+I turn ideas into working solutions end-to-end - by prompting AI agents, then verifying and shipping, and documenting what I build.  
+Most of all, I genuinely enjoy building cool things with AI - it gives me satisfaction.  
 
 📍 **Kraków, Poland**  
 📫 **Reach me at:** [igor.wroblewski.contact@gmail.com](mailto:igor.wroblewski.contact@gmail.com)  
@@ -9,9 +11,9 @@ I am a dual-degree student combining **Applied Computer Science** with **Finance
 ---
 
 ### 🎓 Education
-- **B.Sc. Finance & Accounting** (part-time, 2025-2028 expected)  
+- **B.Sc. Finance & Accounting** (part-time, 2025 - 2028 expected)  
   *Krakow University of Economics (UEK / CUE)*
-- **B.Eng. Applied Computer Science** (full-time, 2024-2028 expected)  
+- **B.Eng. Applied Computer Science** (full-time, 2024 - 2028 expected)  
   *University of National Education Commission, Krakow (UKEN)*
   
 ### 🛠 Technical Skills
